@@ -1,7 +1,12 @@
-# Welcome to GitHub Desktop!
+# Добро пожаловать в справку
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+#### Что это за программа?
+Программа из **8-го кейса**. *Задачка про шахматную доску*
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+#### В чём смылс?
+**Пользователь** вводит ***количество строк и столбцов***. Программа выдёт "шахматную доску" с чередованием **'*'** и **'.'** . Считайте, что это как *белые* и *чёрные клетки* на физической шахматной доске
 
-#nuh uh
+#### Как ею пользоваться?
+
+
+###### nuh uh
